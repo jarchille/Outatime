@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7B2BC89B44C59E68C2BF84A75CAF068E6A531EC5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F037FB9B01BEB0EEFCC87E8D9AF2A3A18666D084" : 9223372036854775807,
+    "7B2BC89B44C59E68C2BF84A75CAF068E6A531EC5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BC4633C6-A1B5-4D70-BB64-994E7A4FEB2A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F037FB9B01BEB0EEFCC87E8D9AF2A3A18666D084" : "",
+    "7B2BC89B44C59E68C2BF84A75CAF068E6A531EC5" : "2016--FALL--iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OutaTime",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OutaTime\/OutaTime.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jcgohlke\/2016--FALL--iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7B2BC89B44C59E68C2BF84A75CAF068E6A531EC5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jarchille\/NOC-List.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F037FB9B01BEB0EEFCC87E8D9AF2A3A18666D084"
+    }
+  ]
+}
